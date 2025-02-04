@@ -1,21 +1,29 @@
-## Hi there 👋
+# Bienvenue sur mon Profil GitHub 👋
 
-afzqegzhreg
-gaerht
-eathrzthrjyzg
-qzgrg
+Salut ! Je suis Toky Sigogneau, un apprenti développeur web passionné par la création de sites web interactifs et dynamiques. Sur ce profil, tu trouveras mes projets, contributions et expériences dans le domaine du développement web.
 
-<!--
-**ReverieLanaya/reverielanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+- 🌱 Actuellement en apprentissage de nouvelles technologies web.
+- 💻 Passionné par le développement front-end et back-end.
+- 🚀 Toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+- **Langages de programmation** : HTML, CSS, JavaScript, PHP
+- **Bases de données** : MySQL
+- **Outils et plateformes** : Git, GitHub, VS Code
+
+## Projets
+
+### [Anico](https://github.com/ReverieLanaya/Anico-Robin)
+Anico est une application web dédiée aux amateurs d'animes. Elle permet aux utilisateurs de s'informer sur divers animes et de créer des listes personnalisées pour les regarder plus tard.
+
+
+## Contact
+
+- 📧 Email : [ton-email@example.com](mailto:ton-email@example.com)
+- 💼 LinkedIn : [Ton Nom](https://www.linkedin.com/in/ton-nom/)
+- 🌐 Portfolio : [ton-portfolio.com](https://www.ton-portfolio.com)
+
+Merci de visiter mon profil GitHub ! N'hésite pas à explorer mes projets et à me contacter pour toute question ou collaboration. 🚀
