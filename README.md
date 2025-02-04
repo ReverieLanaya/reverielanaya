@@ -23,6 +23,6 @@ Anico est une application web dédiée aux amateurs d'animes. Elle permet aux ut
 ## Contact
 
 - 📧 Email : [sigogneautokty@gmail.com](mailto:sigogneautokty@gmail.com)
-- 💼 LinkedIn : [Toky Sigogneau](https://www.linkedin.com/in/toky-sigogneau/)
+- 💼 LinkedIn : [Toky Sigogneau](https://www.linkedin.com/in/toky-sigogneau-88979b202/)
 
 Merci de visiter mon profil GitHub ! N'hésite pas à explorer mes projets et à me contacter pour toute question ou collaboration. 🚀
